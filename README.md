@@ -9,6 +9,6 @@ Future enhancements could involve neural networks to explore larger datasets.
 
 
 ### Repo Summary
-  -- technical_analysis.ipynb : Final summary of our work.
-  -- process_data/ : Tools used for analysing data.
-  -- visualizations/ : Plots to visualize the results.
+  - technical_analysis.ipynb : Final summary of our work.
+  - process_data/ : Tools used for analysing data.
+  - visualizations/ : Plots to visualize the results.
